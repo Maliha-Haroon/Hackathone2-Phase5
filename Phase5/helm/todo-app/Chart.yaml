@@ -1,0 +1,4 @@
+apiVersion: v2
+name: todo-app
+description: Todo Chatbot Helm Chart
+version: 0.1.0
